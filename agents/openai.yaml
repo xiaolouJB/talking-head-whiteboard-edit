@@ -1,0 +1,4 @@
+interface:
+  display_name: "口播白板剪辑"
+  short_description: "从口播内容生成同步图解与多样构图，支持风格切换、比例定制和成片审查"
+  default_prompt: "使用 $talking-head-whiteboard-edit，按口播内容剪辑并制作同步白板图解，默认9:16。"
